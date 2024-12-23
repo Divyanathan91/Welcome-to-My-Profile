@@ -31,6 +31,9 @@ Power BI
   <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/512/tableau-software.png" width="36" height="36" alt="Tableau" />
 Tableau
+     <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
+    <img src="https://png.pngtree.com/element_our/sm/20180627/sm_5b33460f04516.jpg" width="36" height="36" alt="Excel" />
+Excel
 </p>
 
 
